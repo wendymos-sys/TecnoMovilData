@@ -32,10 +32,8 @@ El programa implementa los siguientes requerimientos:
 # Estructura del proyecto
 
 TecnoMovilData/
-│
 ├── src/
 │   └── Main.java
-│
 └── README.md
 
 # Ejecución
